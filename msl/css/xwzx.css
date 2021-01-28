@@ -1,0 +1,58 @@
+.zhan{
+    width: 15.075rem;
+    font-family: '黑体';
+    margin-top: 0.82rem;
+}
+.zhan ul li{
+    width: 14.325rem;
+    height: 6.7rem;
+    background-color: #F3F4F8;
+    margin-bottom: 0.975rem;
+    padding-left: 0.75rem;
+    padding-top: 0.75rem;
+}
+.zhan ul li h5{
+    font-size: 0.75rem;
+    margin-bottom: 0.625rem;
+}
+.zhan ul li p{
+    font-size: 0.6rem;
+    color: #7A7A7A;
+    line-height: 1rem;
+    margin-bottom: 1rem;
+}
+.zhan ul li hr{
+    width: 13.525rem;
+    height: 2px;
+    background-color: #E6E8EE;
+    border: none;
+    margin-bottom: 0.4rem;
+}
+.zhan ul li span{
+    font-size: 0.6rem;
+}
+.zhan ul li .hx{
+    width: 1.075rem;
+    height: 0.05rem;
+    background-color: #999999;
+    display: inline-block;
+    margin-left: 4.35rem;
+    margin-right: 1.5rem;
+}
+.zhan .syy{
+    width: 3.475rem;
+    height: 1.35rem;
+    line-height: 1.02rem;
+    text-align: center;
+    background-color: #1159E5;
+    margin-right: 0.55rem;
+    float: left;
+    margin-bottom: 1.325rem;
+}
+.zhan .syy a{
+    font-size: 0.55rem;
+    color: #FFFFFF;
+}
+.zhan .ml{
+    margin-left: 3.8rem;
+}

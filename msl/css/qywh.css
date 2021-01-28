@@ -1,0 +1,77 @@
+.zhan{
+    width: 15.075rem;
+    margin-top: 0.2rem;
+}
+.zhan h4{
+    font-size: 0.75rem;
+    margin-top: 0.8rem;
+    text-align: center;
+    margin-bottom: -0.4rem;
+}
+.zhan span{
+    font-size: 0.5rem;
+    color: #CAC8C8;
+    margin-left: 0.425rem;
+}
+.zhan p{
+    font-size: 0.6rem;
+    text-indent: 2em;
+    line-height: 1.1rem;
+    margin-bottom: 0.75rem;
+}
+.zhan p.xiao{
+    margin-bottom: 0;
+}
+.zhan .tb ul li{
+    float: left;
+    margin-left: 1.74rem;
+}
+.zhan .tb ul li.j1{
+    margin-left: 2.825rem;
+}
+.zhan .tb ul li.j2{
+    margin-left: 0;
+}
+.zhan .tb ul li div.lb{
+    width: 3.425rem;
+    height: 3.425rem;
+    background-color: #FFFFFF;
+    border: 1px solid #135AE6;
+    border-radius: 50%;
+    text-align: center;
+    padding: 0.18rem;
+}
+.zhan .tb ul li div.lb div.lk{
+    width: 3.4rem;
+    height: 3.4rem;
+    background-color: #1259E6;
+    border-radius: 50%;
+}
+.zhan .tb ul li div.lb div.lk img{
+    width: 1.85rem;
+    height: 1.85rem;
+    margin-top: 0.8rem;
+}
+.zhan .tb ul li strong{
+    font-size: 0.65rem;
+    font-weight: normal;
+    margin-left: 0.875rem;
+}
+.zhan .lt{
+    width: 2.2rem;
+    height: 0.125rem;
+    margin-left: 6.45rem;
+    background-color: #1B6BE5;
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+}
+.zhan .gg{
+    width: 15.1rem;
+    height: 5.65rem;
+    margin-bottom: 0.75rem;
+    margin-top: 1.2rem;
+}
+.zhan .gg img{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,26 @@
+.zhan{
+    width: 15.075rem;
+    height: 42rem;
+    font-family: '黑体';
+    margin-top: 0.2rem;
+}
+.zhan h4{
+    font-size: 0.75rem;
+    line-height: 2.7rem;
+    text-align: center;
+}
+.zhan p{
+    font-size: 0.6rem;
+    text-indent: 2em;
+    line-height: 1rem;
+    margin-bottom: 0.75rem;
+}
+.zhan .gg{
+    width: 15.075rem;
+    height: 10.05rem;
+    margin-bottom: 0.75rem;
+}
+.zhan .gg img{
+    width: 100%;
+    height: 100%;
+}

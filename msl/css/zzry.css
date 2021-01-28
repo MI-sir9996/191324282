@@ -1,0 +1,53 @@
+.zhan{
+    width: 15.075rem;
+    font-family: '黑体';
+    margin-top: 0.82rem;
+}
+.zhan ul li{
+    width: 14rem;
+    height: 11.325rem;
+    border:1px solid #E8E8E8;
+    margin-left: 0.55rem;
+    margin-bottom: 0.75rem;
+}
+.zhan ul li .tp{
+    width: 14.05rem;
+    height: 8.725rem;
+}
+.zhan ul li .tp img{
+    width: 100%;
+    height: 100%;
+}
+.zhan ul li p{
+    font-size: 0.6rem;
+    margin-left: 0.575rem;
+    line-height: 0.63rem;
+    margin-top: 0.5rem;
+}
+.zhan ul li .jt{
+    width: 0.8rem;
+    height: 0.625rem;
+    margin-left: 0.7rem;
+}
+.zhan ul li .jt a img{
+    width: 100%;
+    height: 100%;
+}
+.zhan .syy{
+    width: 3.475rem;
+    height: 1.35rem;
+    line-height: 1.02rem;
+    text-align: center;
+    background-color: #1159E5;
+    margin-right: 0.55rem;
+    float: left;
+    margin-bottom: 1.325rem;
+    margin-top: 0.25rem;
+}
+.zhan .syy a{
+    font-size: 0.55rem;
+    color: #FFFFFF;
+}
+.zhan .ml{
+    margin-left: 3.8rem;
+}

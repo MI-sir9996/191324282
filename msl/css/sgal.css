@@ -1,0 +1,77 @@
+.zhan{
+    width: 15.075rem;
+    margin-top: 0.82rem;
+}
+.zhan .ggp ul li{
+    width: 4.675rem;
+    height: 1.575rem;
+    line-height: 1.575rem;
+    background-color: #F3F3F3;
+    float: left;
+    font-size: 0.6rem;
+    margin-right: 0.52rem;
+    text-align: center;
+    margin-bottom: 0.55rem;
+}
+.zhan .ggp ul li:hover{
+    background-color: #2578E6;
+    color: #FFFFFF;
+}
+.zhan .ggp ul li.active{
+    background-color: #2578E6;
+    color: #FFFFFF;
+}
+.zhan .ggp ul li.xiao{
+    margin-right: 0;
+}
+.zhan div.nr ul li{
+    width: 14.6rem;
+    height: 14.225rem;
+    background-color: #F3F4F8;
+    margin-top: 0.6rem;
+    margin-left: 0.25rem;
+    margin-bottom: 0.975rem;
+}
+.zhan div.nr ul li span{
+    font-size: 0.45rem;
+    color: #999999;
+    margin-bottom: 0.5rem;
+    margin-top: 0.7rem;
+    display: inline-block;
+}
+.zhan div.nr ul li span{
+    margin-left: 0.825rem;
+}
+.zhan div.nr ul li p{
+    margin-left: 0.825rem;
+}
+.zhan div.nr ul li p{
+    font-size: 0.6rem;
+    line-height: 1rem;
+    width: 12.8rem;
+}
+.zhan ul li .tp{
+    width: 14.6rem;
+    height: 9.9rem;
+}
+.zhan ul li .tp img{
+    width: 100%;
+    height: 100%;
+}
+.zhan .syy{
+    width: 3.475rem;
+    height: 1.35rem;
+    line-height: 1.02rem;
+    text-align: center;
+    background-color: #1159E5;
+    margin-right: 0.55rem;
+    float: left;
+    margin-bottom: 1.325rem;
+}
+.zhan .syy a{
+    font-size: 0.55rem;
+    color: #FFFFFF;
+}
+.zhan .ml{
+    margin-left: 3.8rem;
+}

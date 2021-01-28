@@ -1,0 +1,41 @@
+.zhan{
+    margin-top: 0.95rem;
+    width: 15.075rem;
+}
+.zhan .tu{
+    width: 15.075rem;
+    height: 9.35rem;
+}
+.zhan .tu img{
+    width: 100%;
+    height: 100%;
+}
+.zhan ul li h5{
+    font-size: 0.7rem;
+    font-weight: normal;
+    margin-top: 0.7rem;
+    margin-bottom: 0.35rem;
+}
+.zhan ul li .sxhx{
+    width: 15.075rem;
+    height: 1.25rem;
+    border-top: 2px solid #F0F0F0;
+    border-bottom: 2px solid #F0F0F0;
+    margin-bottom: 0.35rem;
+}
+.zhan ul li .sxhx p{
+    font-size: 0.5rem;
+    color: #999999;
+    float: left;
+    line-height: 1.25rem;
+    margin-bottom: 0;
+}
+.zhan ul li .sxhx p.jg{
+    margin-right: 0.925rem;
+}
+.zhan ul li p{
+    font-size: 0.55rem;
+    line-height: 0.95rem;
+    color: #656565;
+    margin-bottom: 1.05rem;
+}
